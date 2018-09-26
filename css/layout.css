@@ -26,7 +26,7 @@
 .col-1 {
   float:right;
   width: 32%;
-  height: auto;
+  overflow: scroll;
 }
 
 .col-2 {
