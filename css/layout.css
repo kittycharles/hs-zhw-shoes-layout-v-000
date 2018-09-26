@@ -49,3 +49,7 @@
 .middle {
   float: left;
 }
+
+.shrink {
+  max-height: 85%;
+}
